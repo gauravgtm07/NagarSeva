@@ -75,7 +75,7 @@ Namma-Raste-Reporter is an Android citizen service app built with Jetpack Compos
 - `gradle/libs.versions.toml` — dependency versions
 
 ## Screenshot
-<img width="300" height="450" alt="home page" src="https://github.com/user-attachments/assets/277337f0-3bf7-4a00-8f05-f3ed96ae428f" /> 
+<img width="280" height="450" alt="home page" src="https://github.com/user-attachments/assets/277337f0-3bf7-4a00-8f05-f3ed96ae428f" /> 
 <img width="280" height="450" alt="status tracker" src="https://github.com/user-attachments/assets/170ce34f-5d65-4b4a-88c9-115b4f40958f" />
 <img width="280" height="450" alt="my reports" src="https://github.com/user-attachments/assets/99be333e-41cf-4fd9-ba0e-2d37cc94c775" />
 
