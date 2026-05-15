@@ -27,6 +27,7 @@ Namma-Raste-Reporter is an Android citizen service app built with Jetpack Compos
 - Play Services Location GPS
 - DataStore Preferences
 
+
 ## Project Details
 
 - Package / namespace: `com.nagarseva.app`
@@ -72,6 +73,10 @@ Namma-Raste-Reporter is an Android citizen service app built with Jetpack Compos
 - `app/build.gradle.kts` — module build configuration
 - `build.gradle.kts` — top-level Gradle settings
 - `gradle/libs.versions.toml` — dependency versions
+
+## Screenshot
+<img width="300" height="450" alt="home page" src="https://github.com/user-attachments/assets/277337f0-3bf7-4a00-8f05-f3ed96ae428f" /> 
+<img width="300" height="450" alt="status tracker" src="https://github.com/user-attachments/assets/170ce34f-5d65-4b4a-88c9-115b4f40958f" />
 
 ## Contributing
 
